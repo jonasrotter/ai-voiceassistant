@@ -1,0 +1,7 @@
+#Ignore all files
+*.jpg
+*.csv
+
+#Ignore Environment files
+*.env
+
