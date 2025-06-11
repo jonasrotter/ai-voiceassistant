@@ -1,0 +1,14 @@
+openai
+tenacity
+tqdm
+numpy
+typing
+tiktoken
+concurrent
+ipykernel
+pandas
+dotenv
+SQLAlchemy
+openai-agents[voice]
+sounddevice
+os
